@@ -9,7 +9,10 @@
 
 <h2 style="font-family:Segoe UI, sans-serif; font-weight:600; font-size:1.6em;">Overview</h2>
 <p style="font-family:Segoe UI, sans-serif; font-size:1em; line-height:1.6;">
-  <strong>SENTI OLED</strong> is a handcrafted theme designed for the taskbar theming engine <strong>Seelen UI</strong>. 
+  <strong>SENTI OLED</strong> is a handcrafted theme designed for the taskbar theming engine 
+  <a href="https://github.com/Seelen-UI/seelen" target="_blank" style="color:#00ffff; text-decoration:none; border-bottom:1px solid #00ffff;">
+    Seelen UI
+  </a>.
   Built to take full advantage of OLED displays, it uses true blacks, soft glows, and clean visual structure. 
   The result is a minimalist, high-contrast interface that looks sharp on any display while conserving power on OLED screens.
 </p>
@@ -49,6 +52,5 @@
 
 <h2 style="font-family:Segoe UI, sans-serif; font-weight:600; font-size:1.4em;">License</h2>
 <p style="font-family:Segoe UI, sans-serif; font-size:1em; line-height:1.6;">
-  Free to use and modify for personal projects. Credit is appreciated but not required. 
-  For redistribution or commercial use, please include attribution to the original author.
+whatever the MIT license says
 </p>
